@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1037" height="659" viewBox="0 0 1037 659">
+  <g id="Grupo_7" data-name="Grupo 7" transform="translate(-416 -262)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="107" cy="107" r="107" transform="translate(853 433)" fill="#fff"/>
+    <text id="CREA_TIVIDAD" data-name="CREA
+TIVIDAD" transform="translate(960 521)" fill="#f37320" font-size="55" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-72.655" y="0">CREA</tspan><tspan x="-113.795" y="63">TIVIDAD</tspan></text>
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(678 612)" fill="none" stroke="#fff" stroke-width="5" stroke-dasharray="9 9">
+      <ellipse cx="147" cy="140" rx="147" ry="140" stroke="none"/>
+      <ellipse cx="147" cy="140" rx="144.5" ry="137.5" fill="none"/>
+    </g>
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(1067 556)" fill="none" stroke="#fff" stroke-width="5">
+      <ellipse cx="87" cy="83" rx="87" ry="83" stroke="none"/>
+      <ellipse cx="87" cy="83" rx="84.5" ry="80.5" fill="none"/>
+    </g>
+    <text id="CONFIANZA" transform="translate(758 773)" fill="#fff" font-size="55" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-162.057" y="0">CONFIANZA</tspan></text>
+    <text id="INSPIRACIÓN" transform="translate(1272 661)" fill="none" stroke="#fff" stroke-width="1" font-size="55" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-179.245" y="0">INSPIRACIÓN</tspan></text>
+    <g id="Elipse_4" data-name="Elipse 4" transform="translate(1024 684)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+      <circle cx="34.5" cy="34.5" r="34" fill="none"/>
+    </g>
+    <g id="Elipse_5" data-name="Elipse 5" transform="translate(689 594)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+      <circle cx="34.5" cy="34.5" r="34" fill="none"/>
+    </g>
+    <g id="Elipse_9" data-name="Elipse 9" transform="translate(1189 829)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+      <circle cx="34.5" cy="34.5" r="34" fill="none"/>
+    </g>
+    <g id="Elipse_6" data-name="Elipse 6" transform="translate(784 336)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="34.5" cy="34.5" r="34.5" stroke="none"/>
+      <circle cx="34.5" cy="34.5" r="34" fill="none"/>
+    </g>
+    <g id="Elipse_7" data-name="Elipse 7" transform="translate(1193 262)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="129" cy="129" r="129" stroke="none"/>
+      <circle cx="129" cy="129" r="128.5" fill="none"/>
+    </g>
+    <text id="COMPROMISO" transform="translate(1223 412)" fill="#fff" font-size="55" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-191.895" y="0">COMP</tspan><tspan y="0" fill="#f37320">ROMISO</tspan></text>
+    <text id="EMPATÍA" transform="translate(664 550)" fill="#fff" font-size="55" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-120.147" y="0">EMPATÍA</tspan></text>
+    <g id="Elipse_8" data-name="Elipse 8" transform="translate(416 574)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="72.5" cy="72.5" r="72.5" stroke="none"/>
+      <circle cx="72.5" cy="72.5" r="72" fill="none"/>
+    </g>
+    <circle id="Elipse_10" data-name="Elipse 10" cx="23" cy="23" r="23" transform="translate(416 663)" fill="#f37320"/>
+    <circle id="Elipse_11" data-name="Elipse 11" cx="23" cy="23" r="23" transform="translate(823 382)" fill="#f37320"/>
+    <circle id="Elipse_12" data-name="Elipse 12" cx="23" cy="23" r="23" transform="translate(1189 875)" fill="#f37320"/>
+  </g>
+</svg>
